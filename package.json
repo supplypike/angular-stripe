@@ -2,7 +2,7 @@
   "name": "angular-stripe",
   "version": "4.2.8",
   "description": "Angular service provider for interacting with Stripe",
-  "main": "./src",
+  "main": "./release",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -42,7 +42,7 @@
     "stripe-as-promised": "~2.0.0"
   },
   "files": [
-    "src/*.js",
+    "release",
     "readme.md"
   ],
   "standard": {
